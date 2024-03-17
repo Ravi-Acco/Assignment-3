@@ -17,6 +17,7 @@ Each merged license entry is represented as an element under the root element <M
 
 Output:
 The program generates a new XML file named MergedLicense.xml containing the merged license data which is already uploaded to the Git Repo.
+Additionally I have added the same MergedLicense in a tabular format for easy readability with an additional Validity column at the end.
 
 Execution
 Compile the Java program XMLMerger.java.
