@@ -14,16 +14,10 @@ Creating Merged XML File:
 The merged data is stored in a new XML file named MergedLicense.xml.
 Each merged license entry is represented as an element under the root element <Merged_Licenses>.
 
-
 Output:
-<<<<<<< HEAD
 The program generates two XML file named ValidLicenses.xml and InvalidLicenses.xml and then merges them into a single 
 MergedLicenses.xml file containing the merged license data after which a text file in a tabular format has been created with the Validity
 column to easily diffrentiate.
-=======
-The program generates a new XML file named MergedLicense.xml containing the merged license data which is already uploaded to the Git Repo.
-Additionally I have added the same MergedLicense in a tabular format for easy readability with an additional Validity column at the end.
->>>>>>> 58804fe8faa589d1111744f9027b80329d03668e
 
 Execution
 Compile the Java program XMLMerger.java.
